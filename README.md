@@ -1,8 +1,8 @@
-# Roy the RPG
+# The Adventure of Bart
 
-It's in progress, and it's gonna be great.
+It's in progress, and it's gonna be *somewhat* great.
 
 
-[nitrodragon.github.io](http://nitrodragon.github.io/royroyroyroy)
+[It's here.](http://nitrodragon.github.io/SS)
 ## Information
-This game will be making history. I'm not going to say how quite yet, but it will. 
+This is my social studies project.
